@@ -74,3 +74,4 @@ if num_1 % 2 == 0 and num_2 % 2 == 0:
     elif operation == "/":
         quotient = num_1 / num_2
         print("{num_1} / {num_2} is equal to {quotient}.".format(num_1 = num_1, num_2 = num_2, quotient = quotient))
+        

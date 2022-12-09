@@ -52,3 +52,4 @@ elif Discriminant == 0:
     print('The root is located at x = {root_1:.2f}.'.format(root_1 = root_1))
 elif Discriminant < 0:
     print('No real roots exist.')
+    

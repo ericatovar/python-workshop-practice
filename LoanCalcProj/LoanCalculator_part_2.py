@@ -97,4 +97,3 @@
 
 ### Write here ###
 from math import ceil
-
