@@ -186,3 +186,4 @@ while True:
       break
    else:
       print(animals[int(habitat)-1])
+      
